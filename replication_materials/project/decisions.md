@@ -5,6 +5,7 @@
 | ID | Date | Decision | Proposed by | Decided by | How | Evidence | Source |
 |---|---|---|---|---|---|---|---|
 | D1 | 2026-10-20 | Keep a replication record with the replication-materials skill. | fmm | fmm | chat | "Set up replication materials for this project." (2026-10-20) | acceptance-b |
+| D2 | 2026-10-20 | Store images as PNG files, not TIFF files, because PNG files are smaller. | unknown | fmm | chat | "I chose PNG because the files are smaller." (2026-10-20) | acceptance-b |
 
 ## Corrections
 
